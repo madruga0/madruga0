@@ -6,7 +6,6 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madruga0&show_icons=true&theme=blue_navy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Madruga-Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
