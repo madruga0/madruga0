@@ -1,4 +1,4 @@
-### Hello World, I'm madruga0. I'm development study👋
+### Hello World, I'm madruga0. I'm development student👋
 ##
 - ✝️ God's servant
 - 📚 Eternal student 
