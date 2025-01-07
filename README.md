@@ -1,4 +1,5 @@
-### Hello World, I'm madruga0. I'm development student👋
+### Hello World, I'm madruga0.👋
+#### I'm a development student, focused on Java. Currently, I'm focused on backend.
 ##
 - ✝️ God's servant
 - 📚 Eternal student 
