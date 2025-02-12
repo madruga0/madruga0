@@ -1,4 +1,4 @@
-### Hello World, I'm madruga0.👋
+### Hello World, I'm Pedro Madruga.👋
 #### I'm a development student, focused on Java. Currently, I'm focused on backend.
 ##
 - ✝️ God's servant
