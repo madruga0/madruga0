@@ -1,11 +1,9 @@
 ### Hello World, I'm Pedro Madruga.👋
-#### I'm a development student, focused on Java. Currently, I'm focused on backend.
+#### I'm a Computer Science student, focused on Java. Currently, I'm focused on backend.
 ##
 - ✝️ God's servant
 - 📚 Eternal student 
-- 💻 Working with web development
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madruga0&show_icons=true&theme=transparent)
+- 💻 Working with software engineering
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Madruga-Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
