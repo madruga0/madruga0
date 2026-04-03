@@ -1,5 +1,5 @@
 ### Hello World, I'm Pedro Madruga.👋
-#### I'm a Computer Science student, focused on Java. Currently, I'm focused on backend.
+#### I'm a Computer Science student, I'm focused on frontend.
 ##
 - ✝️ God's servant
 - 📚 Eternal student 
